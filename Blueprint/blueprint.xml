@@ -41,21 +41,21 @@
 				<Opcode Name="EventPlay64" Id="358" />
 			</Opcodes>
 		</Region>
-		<Region Name="KR" Version="2024.07.02.0000.0000">
+		<Region Name="KR" Version="2024.09.11.0000.0000">
 			<Opcodes>
-				<Opcode Name="StatusEffectList" Id="199" />
-				<Opcode Name="StatusEffectList2" Id="936" />
-				<Opcode Name="StatusEffectList3" Id="689" />
-				<Opcode Name="Ability1" Id="592" />
-				<Opcode Name="Ability8" Id="276" />
-				<Opcode Name="Ability16" Id="567" />
-				<Opcode Name="Ability24" Id="234" />
-				<Opcode Name="Ability32" Id="711" />
-				<Opcode Name="ActorCast" Id="242" />
-				<Opcode Name="EffectResult" Id="616" />
-				<Opcode Name="ActorControl" Id="465" />
-				<Opcode Name="ActorControlSelf" Id="958" />
-				<Opcode Name="ActorControlTarget" Id="747" />
+				<Opcode Name="StatusEffectList" Id="851" />
+				<Opcode Name="StatusEffectList2" Id="409" />
+				<Opcode Name="StatusEffectList3" Id="618" />
+				<Opcode Name="Ability1" Id="345" />
+				<Opcode Name="Ability8" Id="612" />
+				<Opcode Name="Ability16" Id="742" />
+				<Opcode Name="Ability24" Id="830" />
+				<Opcode Name="Ability32" Id="180" />
+				<Opcode Name="ActorCast" Id="795" />
+				<Opcode Name="EffectResult" Id="729" />
+				<Opcode Name="ActorControl" Id="219" />
+				<Opcode Name="ActorControlSelf" Id="701" />
+				<Opcode Name="ActorControlTarget" Id="250" />
 				<Opcode Name="MapEffect" Id="0" />
 				<Opcode Name="EventPlay" Id="0" />
 				<Opcode Name="EventPlay64" Id="0" />
